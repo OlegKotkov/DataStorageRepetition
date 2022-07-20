@@ -1,0 +1,31 @@
+{
+   "data": [
+       {
+           "title": "Fruits",
+           "items": [
+               "Apple",
+               "Orange",
+               "Grapes",
+               "Strowberry"
+           ]
+       },
+       {
+           "title": "Cars",
+           "items": [
+               "Jeep",
+               "Honda",
+               "VAG",
+               "Luaz"
+           ]
+       },
+       {
+           "title": "Cuntries",
+           "items": [
+               "Serbia",
+               "Russia",
+               "Ukraine",
+               "Japan"
+           ]
+       }
+    ]
+}
